@@ -1,5 +1,4 @@
-![Alt text]([images/myimage.png](https://github.com/Aditya9598/Ai-Booth/blob/main/face_swapped_image.jpg))
-
+![Doctor Avatar](https://github.com/Aditya9598/Ai-Booth/blob/main/face_swapped_image.jpg)
 
 
 # Ai-Booth
