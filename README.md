@@ -1,5 +1,5 @@
-![Alt text](![image](https://github.com/user-attachments/assets/bb24eed0-78af-48c8-a669-4efa2f4918b9)
-)
+![Alt text]([images/myimage.png](https://github.com/Aditya9598/Ai-Booth/blob/main/face_swapped_image.jpg))
+
 
 
 # Ai-Booth
