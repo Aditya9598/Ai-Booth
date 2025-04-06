@@ -1,5 +1,4 @@
-
-![Image](https://github.com/user-attachments/assets/091e7627-0373-481b-b236-4494f97bdf94)
+![Image](https://github.com/user-attachments/assets/6100d1e1-217e-4d45-8687-db443b7d4313)
 
 # Ai-Booth
 
